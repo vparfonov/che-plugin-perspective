@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.eclipse.che.core:che-core-api-workspace-shared:5.18.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/che/core/che-core-api-workspace-shared/5.18.0-SNAPSHOT/che-core-api-workspace-shared-5.18.0-20170914.171603-57.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/che/core/che-core-api-workspace-shared/5.18.0-SNAPSHOT/che-core-api-workspace-shared-5.18.0-20170914.171603-57-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/che/core/che-core-api-workspace-shared/5.18.0-SNAPSHOT/che-core-api-workspace-shared-5.18.0-20170914.171603-57-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
